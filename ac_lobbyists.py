@@ -2,6 +2,8 @@
 # It only pulls in those with the last name "A" at this point. Need to edit code so that it pages 
 # through the site to get all the names.
 
+# Original code is a template from a NICAR13 class. 
+
 import urllib
 from bs4 import BeautifulSoup
 
